@@ -2,8 +2,7 @@
 
 # - Cama de Gato do Futuro.
 
-![Cama de gato 4S - Frame 1](https://user-images.githubusercontent.com/115800499/196938287-2d52337b-c268-4897-9d3e-cd0421502f02.jpg)
-
+![Cama de gato 4S - Frame 1](https://user-images.githubusercontent.com/115800499/196940952-e788f59b-4642-4a74-9974-017655e6a13b.jpg)
 
 # - Business Model Canvas.
 
