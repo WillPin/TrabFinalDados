@@ -6,6 +6,8 @@
 
 # - Business Model Canvas.
 
+![Business Model Canvas - Frame 2](https://user-images.githubusercontent.com/115800499/197261178-2c2ff48e-828f-4c4a-b5d1-c6bd6073eed7.jpg)
+
 # - Video clipe.
 
 # - Fontes de Dados.
