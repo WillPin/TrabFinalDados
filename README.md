@@ -1,6 +1,10 @@
-# - TrabFinalDados -
+# - Introdução -
 
-Apresento aqui o trabalho da materia de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"
+- Trabalho de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"
+- 4° Semestre de Economia e Administação.
+- Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa"
+- Essa é a primeira parte, de 1/2, do trabalho final da diciplina.
+- Deixo aqui, um agradecimento especial aos contribuintes. Tks!
 
 # - Cama de Gato do Futuro.
 
