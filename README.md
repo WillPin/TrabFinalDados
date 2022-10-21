@@ -18,16 +18,16 @@
 
 # - Fontes de Dados.
 
-https://tracker.gg/
+- https://tracker.gg/
 
-https://blitz.gg/
+- https://blitz.gg/
 
-https://www.kaggle.com/
+- https://www.kaggle.com/
 
-https://www.vlr.gg/stats
+- https://www.vlr.gg/stats
 
-https://dak.gg/valorant/en
+- https://dak.gg/valorant/en
 
-https://valorant.op.gg/
+- https://valorant.op.gg/
 
 # - Contribuições.
