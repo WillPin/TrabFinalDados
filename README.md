@@ -30,4 +30,7 @@
 
 - https://valorant.op.gg/
 
-# - Contribuições.
+# - Minhas contribuições.
+
+- Mateus Gonzales.
+(https://github.com/mateusgonzales/estudosdeturismo)
