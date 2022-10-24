@@ -1,4 +1,4 @@
-# - Ferramenta preditiva, que pode analisar quais as suas chances de Vitória ou Derrora, nas partidas de Valorant.
+# - Ferramenta preditiva, que pode analisar quais as suas chances de Vitória ou Derrota, nas partidas de Valorant.
 
 ## - Introdução.
 
