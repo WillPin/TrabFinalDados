@@ -37,3 +37,5 @@
 - Mateus Gonzales > (https://github.com/mateusgonzales/estudosdeturismo)
 
 - Gabriela MB > (https://github.com/GabsMB/Trab_2022)
+
+- Bernardo Dias > (https://github.com/bernardodso/TrabDados4S)
