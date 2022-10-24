@@ -1,12 +1,15 @@
 # - Ferramenta preditiva, que pode analisar quais as suas chances de Vitória ou Derrota, nas partidas de Valorant.
 
 ## - Introdução.
-
-- Trabalho de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"
-- 4° Semestre de Economia e Administação.
-- Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa"
-- Essa é a primeira parte, de 1/2, do trabalho final da diciplina.
-- Deixo aqui, um agradecimento especial aos contribuintes. Tks!
+<div>
+  <ul>
+    <li>Trabalho de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"</li>
+    <li>4° Semestre de Economia e Administação.</li>
+    <li>Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa"</li>
+    <li>Essa é a primeira parte, de 1/2, do trabalho final da diciplina.</li>
+    <li>Deixo aqui, um agradecimento especial aos contribuintes. Tks!</li>
+  <ul>
+<div>
 
 ## - Cama de Gato do Futuro.
 
