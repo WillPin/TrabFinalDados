@@ -42,3 +42,5 @@
 - Gabriela MB > (https://github.com/GabsMB/Trab_2022)
 
 - Bernardo Dias > (https://github.com/bernardodso/TrabDados4S)
+
+- Lucas Rocha > (https://github.com/lucasRtorres/Trabalho1---an-lise-de-dados)
