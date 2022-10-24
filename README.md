@@ -16,7 +16,7 @@
 
 # - Video clipe.
 
-# - Fontes de Dados.
+# - Fontes de dados.
 
 - https://tracker.gg/
 
@@ -32,5 +32,6 @@
 
 # - Minhas contribuições.
 
-- Mateus Gonzales.
-(https://github.com/mateusgonzales/estudosdeturismo)
+- Mateus Gonzales > (https://github.com/mateusgonzales/estudosdeturismo)
+
+- Gabriela MB > (https://github.com/GabsMB/Trab_2022)
