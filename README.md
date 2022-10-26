@@ -1,6 +1,7 @@
 # - Ferramenta preditiva, que pode analisar quais as suas chances de Vitória ou Derrota, nas partidas de Valorant.
 
 ## - Introdução.
+
 <div>
   <ul>
     <li>Trabalho de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"</li>
