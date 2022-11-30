@@ -23,17 +23,11 @@
 
 ## - Fontes de dados.
 
-- https://tracker.gg/
+- http://labren.ccst.inpe.br/atlas2_tables/DF_dir.html
 
-- https://blitz.gg/
+- https://www.portalsolar.com.br/energia-solar-no-brasil.html
 
-- https://www.kaggle.com/
-
-- https://www.vlr.gg/stats
-
-- https://dak.gg/valorant/en
-
-- https://valorant.op.gg/
+- https://colab.research.google.com/drive/1gFNPF2X4hvo12NHVIOjAb8RrrAPPydLn#scrollTo=MpWtcelBQx-A
 
 ## - Minhas contribuições.
 
