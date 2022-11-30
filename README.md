@@ -1,4 +1,4 @@
-# - Ferramenta preditiva, que pode analisar quais as suas chances de Vitória ou Derrota, nas partidas de Valorant.
+# - Comparação financeira do custo com energia elétrica, com e sem a ultilização de painéis solares em Brasília.
 
 ## - Introdução.
 
@@ -6,8 +6,7 @@
   <ul>
     <li>Trabalho de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"</li>
     <li>4° Semestre de Economia e Administação.</li>
-    <li>Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa"</li>
-    <li>Essa é a primeira parte, de 1/2, do trabalho final da diciplina.</li>
+    <li>Pelo IDP, "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa"</li>
     <li>Deixo aqui, um agradecimento especial aos contribuintes. Tks!</li>
   <ul>
 <div>
