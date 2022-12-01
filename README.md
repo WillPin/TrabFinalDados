@@ -19,8 +19,6 @@
 
 ![Business model canvas](https://user-images.githubusercontent.com/115800499/204924432-e3ff4caa-ac07-4734-a9b9-ec61763b2315.png)
 
-## - Video clipe.
-
 ## - Fontes de dados.
 
 - http://labren.ccst.inpe.br/atlas2_tables/DF_dir.html
