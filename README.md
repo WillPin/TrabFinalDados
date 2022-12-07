@@ -1,4 +1,4 @@
-# - Comparação financeira do custo com energia elétrica, com e sem a ultilização de painéis solares em Brasília.
+# - Comparação financeira do custo da energia elétrica, com e sem a ultilização de painéis solares em Brasília.
 
 ## - Introdução.
 
